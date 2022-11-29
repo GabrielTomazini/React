@@ -1,0 +1,9 @@
+.frase_container{
+    background-color: aqua;
+    border:2px solid blueviolet;
+}
+
+.frase_content{
+    color:white;
+    margin: 0;
+}
